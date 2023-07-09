@@ -1,0 +1,65 @@
+body{
+    background-image:url("file:///C:/xampp/htdocs/traningproject/img/pexels-photo-1229861.webp");
+}
+h1{
+    color:red;
+    background-color: aquamarine;
+    font-style: oblique;
+}
+p{
+    color:chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#abc{
+    color :crimson;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.xyz{
+    font-size: large;
+    background-color:cadetblue;
+    border-style:solid;
+    border-color:black;
+
+}
+p.xyz{
+    font-size: large;
+    background-color: azure;
+    border-width: 6px;
+    border-color:blueviolet;
+}
+div a{
+    color:green; 
+    text-decoration-color: green;
+    font-size: 16px;
+    line-height: 2;
+}
+li> a{
+    color:brown;
+    font-size:joan;
+}
+.a{
+    color:brown;
+    background-color: darkcyan;
+    border-top: solid 5px;
+    border-color: chartreuse;
+}
+.b{
+    color:chocolate;
+    height: 10px;
+    
+    border-style:solid;
+    padding: 10px 20px 10px 8px;
+}
+.c{
+    color:crimson;
+    background-color: aquamarine;
+    border-right: solid darkgrey 5px;
+}
+.d{
+    color:darkgreen;
+    background-color:aqua;
+    border-bottom: dashed 6px yellowgreen;
+
+}

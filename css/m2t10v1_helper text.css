@@ -1,0 +1,28 @@
+.box {
+    border: solid 2px rgb(184, 52, 151);
+    width: 1000px;
+    display: flex;
+    
+}
+.box > div {
+    border: solid 2px rgb(165, 97, 70);
+    border-radius: 5px;
+}
+.one{
+    border: solid 2px rgb(165, 97, 70);
+    border-radius: 5px;
+    flex-shrink: 2;
+
+}
+.Two{
+    border: solid 2px rgb(165, 97, 70);
+    border-radius: 5px;
+    flex-shrink: 1;
+
+}
+.Three{
+    border: solid 2px rgb(165, 97, 70);
+    border-radius: 5px;
+    flex: 2;
+
+}

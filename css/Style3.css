@@ -1,0 +1,25 @@
+.container{
+    border: solid 1px black;
+    height: 200px;
+    display: inline;
+
+}
+.container > div{
+    height: 50px;
+    width:200px;
+
+}
+.abc{
+   display: inline;
+    border: solid 3px red;
+
+}
+.second{
+    display: inline;
+    border:solid 3px blue;
+
+}
+.third{
+    display: inline;
+    border: solid 3px goldenrod;
+}
